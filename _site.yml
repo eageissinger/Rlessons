@@ -9,4 +9,4 @@ navbar:
   href: lab-meeting-dataR.html
 output:
   html_document:
-  theme: slate
+  theme: cosmo
