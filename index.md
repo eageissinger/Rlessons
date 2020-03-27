@@ -7,7 +7,8 @@ output: html_document
 
 ```{r include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-```
+``` 
+*** 
 
 ### Working in R and RStudio
 
