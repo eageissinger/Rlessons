@@ -4,7 +4,8 @@ author: "Emilie Geissinger"
 date: "26/03/2020"
 output: html_document
 ---
-```{r setup, include=FALSE}
+
+```{r include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
